@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arb!</h1>
-<p align="center">A developer by heart, soul, body and mind with being a proud webizen! <b>Happy</b> to help, <b>curious</b> to learn and <i>crazy</i> to go for the biggest ones! And for you <b>Coding</b>, I'll cherish you forever!</p>
+<p align="center">A developer by heart, soul, body and mind with being a proud webizen! <b>Happy</b> to help, <b>curious</b> to learn and <b><i>crazy</i></b> to go for the biggest ones! And for you <b>Coding</b>, I'll cherish you forever!</p>
 
 [![](https://visitcount.itsvg.in/api?id=arbrahimbadsa&icon=0&color=0)](https://visitcount.itsvg.in)
 
